@@ -1,3 +1,4 @@
+#Prime factorial
 def prime_factorial(n):
     f=[]
     d=2
