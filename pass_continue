@@ -1,0 +1,13 @@
+#difference between pass and continue
+s="Riti"
+for i in s:
+    if i=="t":
+        print("pass used")
+        pass
+    print(i)
+print()
+for i in s:
+    if i=="t":
+        print("continue used")
+        continue
+    print(i)
